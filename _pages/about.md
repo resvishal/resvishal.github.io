@@ -40,7 +40,7 @@ My work involves exploring **protein–ligand interactions, drug resistance mech
 I also integrate **bioinformatics, cheminformatics, and structural biology** to enhance the drug discovery pipeline.  
 
 **Research Interests**  
-- Drug discovery for tuberculosis (TB)  
+- Drug discovery for tuberculosis (TB) 
 - Computational biology and molecular simulations  
 - Structure-based drug design  
 - Mechanisms of drug resistance in pathogenic proteins  
