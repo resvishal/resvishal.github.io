@@ -1,11 +1,17 @@
 title: Vishal # the website title (if blank, full name will be used instead)
 first_name: Vishal
-middle_name:
+middle_name: "" # keep blank safely
 last_name: Kumar
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > 
-  I am a project associate at CSIR_IHBT. My interests include [X, Y, Z]. Currently, I am working on finding out new drugs for various proteins in the Mycobacterium tuberculosis using in-silico techniques like Molecular Dynamics, Docking, Free Energy Calculations etc.
+
+description: >
+  I am a project associate at CSIR_IHBT.
+  Currently, I am working on finding out new drugs for various proteins in the
+  Mycobacterium tuberculosis using in-silico techniques like Molecular Dynamics,
+  Docking, Free Energy Calculations etc.
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
