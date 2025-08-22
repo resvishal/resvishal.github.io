@@ -31,7 +31,7 @@ I am a **Project Associate at [CSIR–Institute of Himalayan Bioresource Technol
 My research is focused on **computational drug discovery** against *Mycobacterium tuberculosis*.  
 I use a range of **in-silico techniques** including:
 
-- Molecular Dynamics (MD) simulations  
+- Molecular Dynamics (MD) simulations 
 - Molecular Docking  
 - Free Energy Calculations  
 - Structure-based Drug Design approaches  
