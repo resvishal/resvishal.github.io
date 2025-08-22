@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Project Associate at CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)**.  
+I am a **Project Associate at [ CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT) ] (http://www.ihbt.res.in/en/)**. 
 My research is focused on **computational drug discovery** against *Mycobacterium tuberculosis*.  
 I use a range of **in-silico techniques** including:
 
