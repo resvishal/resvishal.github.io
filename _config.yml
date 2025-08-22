@@ -6,10 +6,12 @@ title: Vishal Kumar # the website title (if blank, full name will be used instea
 first_name: Vishal
 middle_name:
 last_name: Kumar
-contact_note: > You can reach me on
-                ✉️ vishalwork19@gmail.com
-                🔗 https://www.linkedin.com/in/resvishal/
-description: > I am a project associate at CSIR_IHBT.
+contact_note: >
+  You can reach me on
+    ✉️ vishalwork19@gmail.com
+    🔗 https://www.linkedin.com/in/resvishal/
+description: >
+  I am a project associate at CSIR_IHBT.
   Currently, I am working on finding out new drugs for various proteins in the
   Mycobacterium tuberculosis using in-silico techniques like Molecular Dynamics,
   Docking, Free Energy Calculations etc.
