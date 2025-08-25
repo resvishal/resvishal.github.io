@@ -27,28 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Project Associate at [CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)](http://www.ihbt.res.in/en/)**.  
-My research is focused on **computational drug discovery** against *Mycobacterium tuberculosis*.  
-I use a range of **in-silico techniques** including:
+I am a **Project Associate** at the [CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)](http://www.ihbt.res.in/en/) and completed my **M.Sc. in Bioinformatics** at the [Department of Bioinformatics, Pondicherry University](https://bicpu.edu.in/).  
 
-- Molecular Dynamics (MD) simulations 
-- Molecular Docking  
-- Free Energy Calculations  
-- Structure-based Drug Design approaches  
+My research focuses on **computational approaches to understand disease mechanisms and protein–ligand interactions**. I apply molecular dynamics simulations, molecular docking, free energy calculations, and structure-based drug design to explore how small molecules can modulate biological targets.  
 
-My work involves exploring **protein–ligand interactions, drug resistance mechanisms, and therapeutic target validation**.  
-I also integrate **bioinformatics, cheminformatics, and structural biology** to enhance the drug discovery pipeline.  
+During my master’s thesis, I investigated the **dengue virus NS2B/NS3 protease**, using docking and molecular dynamics to identify potential allosteric binding sites and evaluate ligand stability. This experience strengthened my interest in structural bioinformatics and the role of computation in advancing therapeutic discovery.  
 
-**Research Interests**  
-- Drug discovery for tuberculosis (TB) 
-- Computational biology and molecular simulations  
-- Structure-based drug design  
-- Mechanisms of drug resistance in pathogenic proteins  
-
-**Future Goals**  
-- Advance expertise in **computational drug design**  
-- Collaborate with interdisciplinary teams for **novel therapeutic development**  
-- Contribute to addressing **global health challenges** like tuberculosis  
+Beyond technical skills, I am driven by a deep **curiosity for scientific inquiry**—to ask precise questions, explore hidden mechanisms of biology, and translate computational insights into meaningful solutions. I believe in combining **structural bioinformatics, creativity, and persistence** to contribute to both fundamental science and real-world health challenges.  
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). 
