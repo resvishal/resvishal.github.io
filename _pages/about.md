@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room No. 303, Structural Bioinformatics Lab</p>
+    <p>Room No. 306, Structural Bioinformatics Lab</p>
     <p>CSIR- Institute of Himalayan Bioresource Technology</p>
     <p>Palampur, Himachal Pradesh 176062</p>
 
