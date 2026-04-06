@@ -49,6 +49,7 @@ Remove:
 
 **PyMOL commands:**
 ```bash
+```
 # In PyMOL
 fetch 1ABC          # Download PDB
 remove solvent      # Delete waters
