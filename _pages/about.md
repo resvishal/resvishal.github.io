@@ -5,7 +5,7 @@ permalink: /
 subtitle: Project Associate at CSIR-IHBT
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: "<p>CSIR-IHBT, Palampur, India</p>"
 selected_papers: false
