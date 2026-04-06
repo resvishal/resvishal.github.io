@@ -5,7 +5,7 @@ permalink: /
 subtitle: Project Associate at CSIR-IHBT
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: "&lt;p&gt;Room No. 203, Structural Bioinformatics Lab&lt;/p&gt;&lt;p&gt;CSIR-Institute of Himalayan Bioresource Technology&lt;/p&gt;&lt;p&gt;Palampur, Himachal Pradesh 176062&lt;/p&gt;&lt;p&gt;India&lt;/p&gt;"
 selected_papers: true
