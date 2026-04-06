@@ -2,96 +2,87 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vishal Kumar
+    - name: Location
+      value: Dharamshala, Himachal Pradesh, India
+    - name: Email
+      value: vishalwork19@gmail.com
+    - name: Phone
+      value: +91 7018952676
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science, Bioinformatics
+      institution: Pondicherry University, Puducherry, India
+      year: 2022-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA: 8.61/10
+        - Thesis: Exploring inhibitors for Dengue NS2B/NS3 protease
+    - title: Bachelor of Science (Hons.), Biotechnology
+      institution: Himachal Pradesh University, India
+      year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
+        - 76.2%
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Project Associate-I
+      institution: Structural Bioinformatics Lab, CSIR-IHBT, Palampur, India
+      year: Aug 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Structure-based drug discovery for Mycobacterium tuberculosis
+        - Molecular docking, MD simulations, binding free-energy analysis
+        - Virtual screening of natural product libraries
+    - title: Master's Thesis
+      institution: Department of Bioinformatics, Pondicherry University
+      year: Feb 2024 – May 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Dengue virus NS2B/NS3 protease inhibitor exploration
+        - Molecular docking and dynamics simulations
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+- title: Publications
+  type: list
+  contents:
+    - Kumar V., Singh R., Purohit R. "Multiscale Simulation-Based Screening of 4'-Phosphopantetheinyl Transferase Inhibitors in Mycobacterium tuberculosis." International Journal of Biological Macromolecules, 2025 (under review).
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Honors & Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Merit-cum-Means Scholarship, Pondicherry University (Top 5 entrance ranking)
+    - year: 2022-23
       items:
-        - Max Planck Medal
+        - Merit Scholarship Eligibility, Pondicherry University (Entrance Rank: 5th)
+    - year: 2022
+      items:
+        - Qualified CUET (Life Sciences), national-level competitive exam
 
-- title: Academic Interests
+- title: Computational Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Molecular Simulation
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - GROMACS (MD simulations)
+        - AutoDock, Schrödinger Suite (docking)
+        - MM/PBSA, MM/GBSA, ABFE workflows
+        - Steered MD, Umbrella Sampling
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
+        - Python (scientific scripting)
+        - R (data analysis)
+        - Linux/Unix, Bash scripting
+        - Git, GitHub, Markdown
+    - title: Structural Bioinformatics
+      items:
+        - MODELLER, SWISS-MODEL, AlphaFold, I-TASSER
+        - BLAST, ClustalW, MEGA
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Badminton, walking in the mountains
