@@ -7,6 +7,7 @@ tags: [molecular-dynamics, gromacs, tutorial, drug-discovery]
 categories: [tutorials]
 featured: true  # This will show as featured post
 thumbnail: /assets/img/md-tutorial-cover.jpg  # Optional: add a cover image
+published: true
 ---
 
 &gt; **Target audience:** Computational biologists new to MD  
