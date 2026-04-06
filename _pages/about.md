@@ -16,13 +16,29 @@ latest_posts:
   enabled: false
 ---
 
-## Research Interests
+## Hey
 
-**Drug Discovery**  
-Computational approaches to identify and optimize therapeutic compounds — virtual screening, molecular dynamics, and free energy calculations.
+I'm Vishal. I work at a lab in the Himalayas trying to find new drugs for TB — yes, that ancient disease that somehow still kills more people than car crashes. I use computers to watch proteins wiggle and see if we can jam them with small molecules so they stop working. It's mostly waiting for simulations to finish and cursing when they crash.
 
-**Tuberculosis Biology**  
-Studying *M. tuberculosis* protein targets to find inhibitors that can shorten treatment and combat drug resistance.
+Before this I was in Pondicherry doing my masters, messing around with dengue virus proteins. Got lucky with a result, thought I understood something, realized I didn't, got hooked anyway. Now I'm here.
 
-**Previous Work**  
-Dengue virus NS2B/NS3 protease — allosteric site identification through docking and MD simulations (M.Sc. thesis, Pondicherry University).
+## What I actually do
+
+- Run molecular dynamics (watching atoms dance for days)
+- Docking (fitting molecules into proteins like LEGO)
+- Free energy calculations (fancy way of saying "will this stick?")
+- Stare at PyMOL until my eyes hurt
+
+## Why TB?
+
+Because it's unfair. A disease we could beat if we cared enough. Also the proteins are weird and stubborn and I like difficult things.
+
+## Outside the lab
+
+I play badminton when I can find a court and someone willing to lose. I should watch more movies but I don't — simulations run long and I end up rewatching the same three things I already know by heart. The mountains here are nice though. I walk sometimes.
+
+## Talk to me about
+
+Weird protein behaviors. Failed experiments. Good papers that changed how you think. Struggles. Anything, really.
+
+[vishalwork19@gmail.com](mailto:vishalwork19@gmail.com)
