@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Molecular Dynamics for Beginners: Watching Proteins Move (Step-by-Step)"
 date: 2026-04-05
@@ -7,7 +6,7 @@ description: "A simple, beginner-friendly introduction to running your first MD 
 tags: [molecular-dynamics, gromacs, beginner]
 categories: [tutorials]
 featured: false
----------------
+---
 
 > If you understand basic biology but have never run a simulation, this is for you.
 
