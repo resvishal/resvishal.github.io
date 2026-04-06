@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-molecular-dynamics-for-beginners-watching-proteins-move-step-by-step",
         
-          title: "",
+          title: "Molecular Dynamics for Beginners: Watching Proteins Move (Step-by-Step)",
         
-        description: "",
+        description: "A simple, beginner-friendly introduction to running your first MD simulation",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-05-molecular-dynamics-workflow-tutorial.md2026-04-05-molecular-dynamics-workflow-tutorial/";
+            window.location.href = "/blog/2026/molecular-dynamics-workflow-tutorial.md2026-04-05-molecular-dynamics-workflow-tutorial/";
           
         },
       },{id: "books-the-godfather",
