@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Project Associate at CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)"
+subtitle: "Project Associate at CSIR-Institute of Himalayan Bioresource Technology (CSIR-IHBT)"
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false
-  more_info: &gt;
+  more_info: |
     &lt;p&gt;Room No. 203, Structural Bioinformatics Lab&lt;/p&gt;
     &lt;p&gt;CSIR-Institute of Himalayan Bioresource Technology&lt;/p&gt;
     &lt;p&gt;Palampur, Himachal Pradesh 176062&lt;/p&gt;
@@ -28,9 +28,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a **Project Associate** at the [CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)](http://www.ihbt.res.in/en/) and completed my **M.Sc. in Bioinformatics** at the [Department of Bioinformatics, Pondicherry University](https://bicpu.edu.in/).  
+I am a **Project Associate** at the [CSIR-Institute of Himalayan Bioresource Technology (CSIR-IHBT)](http://www.ihbt.res.in/en/) and completed my **M.Sc. in Bioinformatics** at the [Department of Bioinformatics, Pondicherry University](https://bicpu.edu.in/).  
 
-My research focuses on **computational approaches to understand disease mechanisms and protein–ligand interactions**. I apply molecular dynamics simulations, molecular docking, free energy calculations, and structure-based drug design to explore how small molecules can modulate biological targets. During my master's thesis, I investigated the **dengue virus NS2B/NS3 protease**, using docking and molecular dynamics to identify potential allosteric binding sites and evaluate ligand stability. This experience strengthened my interest in structural bioinformatics and the role of computation in advancing therapeutic discovery.
+My research focuses on **computational approaches to understand disease mechanisms and protein-ligand interactions**. I apply molecular dynamics simulations, molecular docking, free energy calculations, and structure-based drug design to explore how small molecules can modulate biological targets. During my master's thesis, I investigated the **dengue virus NS2B/NS3 protease**, using docking and molecular dynamics to identify potential allosteric binding sites and evaluate ligand stability. This experience strengthened my interest in structural bioinformatics and the role of computation in advancing therapeutic discovery.
 
 ---
 
@@ -42,7 +42,7 @@ My research in drug discovery focuses on leveraging computational methods to acc
 
 ### Tuberculosis and Infection Biology
 
-Tuberculosis remains one of the deadliest infectious diseases worldwide, caused by *Mycobacterium tuberculosis*, a pathogen with remarkable abilities to persist within host macrophages and resist conventional treatments. My research investigates the molecular mechanisms underlying this persistence by studying essential protein targets in the pathogen. Through computational structural biology approaches, I analyze protein dynamics, allosteric regulation, and druggable pockets in key mycobacterial enzymes. Understanding how these proteins function under host-mimicking conditions reveals vulnerabilities that can be exploited for drug development. I am particularly focused on identifying inhibitors that can shorten treatment duration and combat drug-resistant strains. This work involves close integration of molecular simulation data with experimental validation, bridging computational predictions with biological reality. By characterizing the structural and dynamic properties of myobacterial proteins, my research contributes to the global effort to develop more effective, shorter-duration therapies against this ancient yet persistent killer.
+Tuberculosis remains one of the deadliest infectious diseases worldwide, caused by *Mycobacterium tuberculosis*, a pathogen with remarkable abilities to persist within host macrophages and resist conventional treatments. My research investigates the molecular mechanisms underlying this persistence by studying essential protein targets in the pathogen. Through computational structural biology approaches, I analyze protein dynamics, allosteric regulation, and druggable pockets in key mycobacterial enzymes. Understanding how these proteins function under host-mimicking conditions reveals vulnerabilities that can be exploited for drug development. I am particularly focused on identifying inhibitors that can shorten treatment duration and combat drug-resistant strains. This work involves close integration of molecular simulation data with experimental validation, bridging computational predictions with biological reality. By characterizing the structural and dynamic properties of mycobacterial proteins, my research contributes to the global effort to develop more effective, shorter-duration therapies against this ancient yet persistent killer.
 
 ---
 
