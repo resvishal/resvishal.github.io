@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-a-beginner-39-s-guide-to-molecular-dynamics-from-pdb-to-analysis",
+        
+          title: "A Beginner&#39;s Guide to Molecular Dynamics: From PDB to Analysis",
+        
+        description: "Complete workflow for protein-ligand MD simulations using GROMACS",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/molecular-dynamics-workflow-tutorial.md2026-04-05-molecular-dynamics-workflow-tutorial/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
