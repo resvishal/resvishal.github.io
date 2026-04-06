@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Beginner's Guide to Molecular Dynamics: From PDB to Analysis"
-date: 2026-04-06
+date: 2026-04-05
 description: "Complete workflow for protein-ligand MD simulations using GROMACS"
 tags: [molecular-dynamics, gromacs, tutorial, drug-discovery]
 categories: [tutorials]
