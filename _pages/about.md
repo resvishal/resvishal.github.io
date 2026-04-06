@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Project Associate at CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)
+subtitle: "Project Associate at CSIR–Institute of Himalayan Bioresource Technology (CSIR-IHBT)"
 
 profile:
   align: right
