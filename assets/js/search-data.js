@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-beginner-39-s-guide-to-molecular-dynamics-from-pdb-to-analysis",
+        },{id: "post-molecular-dynamics-for-beginners-watching-proteins-move-step-by-step",
         
-          title: "A Beginner&#39;s Guide to Molecular Dynamics: From PDB to Analysis",
+          title: "Molecular Dynamics for Beginners: Watching Proteins Move (Step-by-Step)",
         
-        description: "Complete workflow for protein-ligand MD simulations using GROMACS",
+        description: "A simple, beginner-friendly introduction to running your first MD simulation",
         section: "Posts",
         handler: () => {
           
