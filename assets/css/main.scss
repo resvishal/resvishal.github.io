@@ -57,3 +57,16 @@ $max-content-width: {{ site.max_width }};
   color: #000;
   font-weight: 500;
 }
+
+/* ===== TOC LAYOUT FIX ===== */
+
+.toc-layout {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 40px;
+}
+
+/* This fixes overlap issue */
+.toc-main {
+  min-width: 0;
+}
