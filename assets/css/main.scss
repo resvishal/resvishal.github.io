@@ -23,3 +23,43 @@ $max-content-width: 1200px;
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* ===== FLOATING SIDEBAR TOC ===== */
+
+#toc-floating {
+  position: fixed;
+  right: 40px;
+  top: 140px;
+  width: 220px;
+
+  max-height: 70vh;
+  overflow-y: auto;
+
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+/* Hide on smaller screens */
+@media (max-width: 1200px) {
+  #toc-floating {
+    display: none;
+  }
+}
+
+/* Clean styling */
+#toc-floating ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#toc-floating li {
+  margin-bottom: 6px;
+}
+
+#toc-floating a {
+  text-decoration: none;
+  color: #888;
+}
+
+#toc-floating a:hover {
+  color: #fff;
+}
