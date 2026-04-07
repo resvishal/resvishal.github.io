@@ -42,6 +42,71 @@ By the end, you will understand:
 
 ---
 
+## 🔧 Before you start (what you actually need)
+
+You don’t need to understand everything before running your first simulation.  
+But you do need a few things set up — otherwise you’ll get stuck immediately.
+
+Here’s the minimum.
+
+---
+
+### 1. GROMACS (the main tool)
+
+This is what actually runs the simulation.
+
+You’ll use it to:
+- prepare the system  
+- run MD  
+- generate outputs  
+
+Download: https://www.gromacs.org/downloads/
+
+> If this is not installed properly, nothing else matters.
+
+---
+
+### 2. A structure viewer (PyMOL or VMD)
+
+You need something to *see* what you’re doing.
+
+I use PyMOL:
+https://pymol.org/2/
+
+You’ll use it to:
+- clean structures  
+- inspect proteins  
+- visualize trajectories  
+
+Alternative (also solid):
+https://www.ks.uiuc.edu/Research/vmd/
+
+---
+
+### 3. Basic terminal familiarity
+
+You don’t need to be a Linux expert.
+
+But you should be comfortable with:
+- navigating folders  
+- running commands  
+- editing files  
+
+If this feels unfamiliar, spend ~30 minutes getting used to it.
+
+---
+
+### 4. A protein structure (PDB)
+
+You’ll download your protein from:
+
+https://www.rcsb.org/
+
+Search for any protein and download the `.pdb` file.  
+That’s your starting point.
+
+---
+
 ## The big picture
 
 Every MD simulation follows the same logic:
