@@ -7,7 +7,15 @@ img: assets/img/phd-application.jpg
 ---
 
 * toc
-{:toc}
+<div id="toc-sidebar">
+  <h4>Contents</h4>
+  <ul>
+    <li><a href="#what-actually-changed">What Actually Changed</a></li>
+    <li><a href="#the-core-mistake">The Core Mistake</a></li>
+    <li><a href="#what-i-would-do-differently">What I Would Do Differently</a></li>
+    <li><a href="#final-thought">Final Thought</a></li>
+  </ul>
+</div>
 
 When I started applying for PhD positions abroad during my master’s, I thought I was being serious about it.
 
@@ -47,7 +55,7 @@ But that wasn’t the real issue.
 
 ---
 
-## What Actually Changed
+## What Actually Changed {#what-actually-changed}
 
 Two things shifted my approach.
 
@@ -61,7 +69,7 @@ Working on something real — writing drafts, analysing results — made it very
 
 ---
 
-## The Core Mistake
+## The Core Mistake{#the-core-mistake}
 
 I delayed action because I was unsure.
 
@@ -78,7 +86,7 @@ In reality, that delay just slowed everything down.
 
 ---
 
-## What I Would Do Differently
+## What I Would Do Differently{#what-i-would-do-differently}
 
 If I had to restart, I would simplify the process:
 
@@ -119,7 +127,7 @@ Overthinking this stage just delays useful feedback.
 
 ---
 
-## Final Thought
+## Final Thought{#final-thought}
 
 The biggest shift for me was simple:
 
