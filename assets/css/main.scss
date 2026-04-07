@@ -23,3 +23,36 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* =========================
+   TOC Sidebar Styling
+   ========================= */
+
+#toc-sidebar {
+  position: sticky;
+  top: 100px;
+  font-size: 0.9rem;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding-right: 12px;
+  border-right: 1px solid #e5e5e5;
+}
+
+#toc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#toc-sidebar li {
+  margin-bottom: 6px;
+}
+
+#toc-sidebar a {
+  text-decoration: none;
+  color: #666;
+}
+
+#toc-sidebar a:hover {
+  color: #000;
+  font-weight: 500;
+}
