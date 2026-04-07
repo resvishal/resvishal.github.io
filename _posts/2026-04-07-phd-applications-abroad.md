@@ -54,7 +54,7 @@ But that wasn’t the real issue.
 
 ---
 
-## What Actually Changed {#what-actually-changed}
+## What Actually Changed
 
 Two things shifted my approach.
 
@@ -68,7 +68,7 @@ Working on something real — writing drafts, analysing results — made it very
 
 ---
 
-## The Core Mistake{#the-core-mistake}
+## The Core Mistake
 
 I delayed action because I was unsure.
 
@@ -85,7 +85,7 @@ In reality, that delay just slowed everything down.
 
 ---
 
-## What I Would Do Differently{#what-i-would-do-differently}
+## What I Would Do Differently
 
 If I had to restart, I would simplify the process:
 
@@ -126,7 +126,7 @@ Overthinking this stage just delays useful feedback.
 
 ---
 
-## Final Thought{#final-thought}
+## Final Thought
 
 The biggest shift for me was simple:
 
