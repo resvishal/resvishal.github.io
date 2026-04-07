@@ -62,22 +62,20 @@ layout: default
   </header>
 
   <article class="post-content">
-  <div style="display: grid; grid-template-columns: 250px 1fr; gap: 40px;">
+  <div class="toc-layout">
 
-      <!-- Sidebar TOC -->
-      <div id="toc-sidebar" style="flex: 0 0 250px;">
-        {% toc %}
-      </div>
+    <!-- Sidebar -->
+    <aside id="toc-sidebar">
+      {% toc %}
+    </aside>
 
-      <!-- Main content -->
-      <div style="flex: 1;">
-        <div id="markdown-content">
-          {{ content }}
-        </div>
-      </div>
-
+    <!-- Main Content -->
+    <div class="toc-main">
+      {{ content }}
     </div>
-  </article>
+
+  </div>
+</article>
 
   {% if page.citation %}
     {% include citation.liquid %}
