@@ -75,6 +75,43 @@ $max-content-width: 1200px;
   color: #888;
 }
 
+/* ===== FORCE FULL-WIDTH LAYOUT ===== */
+
+.post {
+  width: 100% !important;
+  max-width: 1200px !important;
+}
+
+/* THIS is the real missing override */
+.post-content {
+  width: 100%;
+  display: block;
+}
+
+/* Fix outer container constraint */
+.container {
+  max-width: 1200px !important;
+}
+
+/* Optional: center layout cleanly */
+.post {
+  margin: 0 auto;
+}
+
 #toc-sidebar a:hover {
   color: #fff;
 }
+
+/* ===== FIX TOC OVERFLOW ===== */
+
+.toc-main {
+  flex: 1;
+  min-width: 0;
+  padding-left: 20px; /* 👈 THIS is key */
+}
+
+#toc-sidebar {
+  background: rgba(255,255,255,0.02);
+  z-index: 1;
+}
+
