@@ -23,25 +23,12 @@ $max-content-width: 1200px;
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-/* ===== FINAL TOC LAYOUT (CLEAN) ===== */
+/* ===== FINAL RIGHT SIDEBAR ===== */
 
 .toc-wrapper {
   display: flex;
   align-items: flex-start;
   gap: 40px;
-  width: 100%;
-}
-
-/* Sidebar */
-#toc-sidebar {
-  flex: 0 0 220px;
-  position: sticky;
-  top: 120px;
-  max-height: 80vh;
-  overflow-y: auto;
-  font-size: 0.9rem;
-  border-right: 1px solid #e5e5e5;
-  padding-right: 15px;
 }
 
 /* Main content */
@@ -50,14 +37,16 @@ $max-content-width: 1200px;
   min-width: 0;
 }
 
-/* Prevent overflow globally */
-.post-content {
-  overflow: hidden;
-}
-
-/* Expand container */
-.container {
-  max-width: 1200px !important;
+/* Sidebar (right) */
+#toc-sidebar {
+  flex: 0 0 220px;
+  position: sticky;
+  top: 120px;
+  max-height: 80vh;
+  overflow-y: auto;
+  font-size: 0.9rem;
+  border-left: 1px solid #e5e5e5;
+  padding-left: 15px;
 }
 
 /* Clean TOC */
@@ -75,43 +64,7 @@ $max-content-width: 1200px;
   color: #888;
 }
 
-/* ===== FORCE FULL-WIDTH LAYOUT ===== */
-
-.post {
-  width: 100% !important;
-  max-width: 1200px !important;
-}
-
-/* THIS is the real missing override */
-.post-content {
-  width: 100%;
-  display: block;
-}
-
-/* Fix outer container constraint */
-.container {
-  max-width: 1200px !important;
-}
-
-/* Optional: center layout cleanly */
-.post {
-  margin: 0 auto;
-}
-
 #toc-sidebar a:hover {
   color: #fff;
-}
-
-/* ===== FIX TOC OVERFLOW ===== */
-
-.toc-main {
-  flex: 1;
-  min-width: 0;
-  padding-left: 20px; /* 👈 THIS is key */
-}
-
-#toc-sidebar {
-  background: rgba(255,255,255,0.02);
-  z-index: 1;
 }
 
