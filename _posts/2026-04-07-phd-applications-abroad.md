@@ -9,8 +9,6 @@ img: assets/img/phd-application.jpg
 * toc
 {:toc}
 
-## PhD Applications Abroad: I Was Doing Everything Except the Right Things
-
 When I started applying for PhD positions abroad during my master’s, I thought I was being serious about it.
 
 I was not.
