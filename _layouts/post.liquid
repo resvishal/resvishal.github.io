@@ -65,19 +65,19 @@ layout: default
 
   <div class="toc-wrapper">
 
-    <!-- Sidebar -->
-    <aside id="toc-sidebar">
-      {% toc %}
-    </aside>
-
-    <!-- Main Content -->
-    <div class="toc-main">
-      <div id="markdown-content">
-        {{ content }}
-      </div>
+  <!-- Main Content FIRST -->
+  <div class="toc-main">
+    <div id="markdown-content">
+      {{ content }}
     </div>
-
   </div>
+
+  <!-- Sidebar RIGHT -->
+  <aside id="toc-sidebar">
+    {% toc %}
+  </aside>
+
+</div>
 
 </article>
 
