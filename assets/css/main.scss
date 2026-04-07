@@ -23,15 +23,20 @@ $max-content-width: 1200px;
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* ===== FINAL TOC LAYOUT (CLEAN) ===== */
 
-/* =========================
-   TOC Sidebar Styling
-   ========================= */
+.toc-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  width: 100%;
+}
 
+/* Sidebar */
 #toc-sidebar {
+  flex: 0 0 220px;
   position: sticky;
   top: 120px;
-  align-self: start;
   max-height: 80vh;
   overflow-y: auto;
   font-size: 0.9rem;
@@ -39,6 +44,23 @@ $max-content-width: 1200px;
   padding-right: 15px;
 }
 
+/* Main content */
+.toc-main {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Prevent overflow globally */
+.post-content {
+  overflow: hidden;
+}
+
+/* Expand container */
+.container {
+  max-width: 1200px !important;
+}
+
+/* Clean TOC */
 #toc-sidebar ul {
   list-style: none;
   padding-left: 0;
@@ -50,34 +72,9 @@ $max-content-width: 1200px;
 
 #toc-sidebar a {
   text-decoration: none;
-  color: #666;
+  color: #888;
 }
 
 #toc-sidebar a:hover {
-  color: #000;
-  font-weight: 500;
-}
-
-/* ===== TOC LAYOUT FIX ===== */
-
-.toc-layout {
-  display: grid !important;
-  grid-template-columns: 240px 1fr !important;
-  gap: 50px;
-  align-items: start;
-  width: 100%;
-}
-
-/* This fixes overlap issue */
-.toc-main {
-  min-width: 0;
-  overflow-wrap: break-word;
-  word-break: break-word;
-}
-
-/* ===== FIX POST WIDTH ===== */
-
-.post {
-  max-width: 1200px !important;
-  width: 100% !important;
+  color: #fff;
 }
