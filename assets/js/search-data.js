@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-molecular-dynamics-for-beginners-watching-proteins-move-step-by-step",
+        },{id: "post-phd-applications-abroad-i-was-doing-everything-except-the-right-things",
+        
+          title: "PhD Applications Abroad: I Was Doing Everything Except the Right Things",
+        
+        description: "Lessons from applying without clarity — and what actually matters.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/phd-applications-abroad/";
+          
+        },
+      },{id: "post-molecular-dynamics-for-beginners-watching-proteins-move-step-by-step",
         
           title: "Molecular Dynamics for Beginners: Watching Proteins Move (Step-by-Step)",
         
