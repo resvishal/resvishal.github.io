@@ -6,7 +6,6 @@ description: "Lessons from applying without clarity — and what actually matter
 img: assets/img/phd-application.jpg
 ---
 
-* toc
 <div id="toc-sidebar">
   <h4>Contents</h4>
   <ul>
