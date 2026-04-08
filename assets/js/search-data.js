@@ -34,11 +34,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/phd-applications-abroad/";
           
         },
-      },{id: "post-molecular-dynamics-for-beginners-watching-proteins-move-step-by-step",
+      },{id: "post-molecular-dynamics-workflow-tutorial-md2026-04-05-molecular-dynamics-workflow-tutorial",
         
-          title: "Molecular Dynamics for Beginners: Watching Proteins Move (Step-by-Step)",
+          title: "Molecular Dynamics Workflow Tutorial.md2026 04 05 Molecular Dynamics Workflow Tutorial",
         
-        description: "A simple, beginner-friendly introduction to running your first MD simulation",
+        description: "",
         section: "Posts",
         handler: () => {
           
