@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-phd-applications-abroad-i-was-doing-everything-except-the-right-things",
+        },{id: "post-tb-is-not-a-docking-problem",
+        
+          title: "TB Is Not a Docking Problem",
+        
+        description: "A short note on where tuberculosis research is actually failing",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tb-is-not-a-docking-problem/";
+          
+        },
+      },{id: "post-phd-applications-abroad-i-was-doing-everything-except-the-right-things",
         
           title: "PhD Applications Abroad: I Was Doing Everything Except the Right Things",
         
